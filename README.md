@@ -40,6 +40,9 @@ Tools that ingest Korean creators / news / macro feeds and emit structured canon
 
 - **[Alpha MCP (`land.moss/alpha-mcp`)](https://github.com/MosslandOpenDevs/alpha-mcp)** — 12 tools over `alpha.moss.land`: search across Korean YouTube channel stance, daily AI briefs, canonical entity/topic/event store, KR macro snapshot (BOK ECOS + FRED), 8 disclosed AI personas with auto-resolving 7-day price calls. Free remote MCP, no auth. Listed at the official [MCP Registry](https://registry.modelcontextprotocol.io).
 
+
+- **[The Stall](https://github.com/thebrierfox/the-stall)** — x402 pay-per-call MCP server with dedicated Korean-market tools: `korean-crypto-movers` (Upbit/Bithumb movers by 1h/24h), `korean-market-movers` (KOSPI/KOSDAQ movers), and `kimchi-premium` (KRW-USD price spread vs global exchange). No API key — USDC micropayments on Base.
+
 ## Korean Macro Data APIs
 
 Free / freemium official APIs for Korean macro indicators.
